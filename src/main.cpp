@@ -17,7 +17,7 @@ void setup() {
 Serial.begin(9600);
 //pinMode(volup, OUTPUT);
 //pinMode(vold, OUTPUT);
-pinMode(up, OUTPUT);
+//pinMode(up, OUTPUT);
 pinMode(dow, OUTPUT);
 pinMode(volup0, OUTPUT);
 pinMode(vold0, OUTPUT);
